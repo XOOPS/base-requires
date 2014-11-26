@@ -34,4 +34,5 @@
         "raveren/kint": "*",
         "phpunit/phpunit": "4.1.*",
 		"phpunit/phpunit-skeleton-generator": "*"
+    }
 }
