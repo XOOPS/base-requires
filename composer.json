@@ -8,7 +8,7 @@
         "ext-PDO": "*",
         "ext-session": "*",
         "ext-pcre": "*",
-        "doctrine/dbal": "2.4.3",
+        "doctrine/dbal": "2.5.0",
         "psr/log": "1.0.0",
         "ircmaxell/password-compat": "~1.0",
         "patchwork/utf8": "1.1.*",
