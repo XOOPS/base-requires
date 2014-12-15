@@ -28,7 +28,7 @@
         "monolog/monolog": "1.10.*",
         "maximebf/debugbar": "1.10.*",
         "tecnick.com/tcpdf": "6.0.*",
-        "endroid/qrcode": "1.3.*",
+        "endroid/qrcode": "1.4.*",
         "stefangabos/zebra_image": "2.2.4",
         "phpmailer/phpmailer": "5.2.9",
         "swiftmailer/swiftmailer": "5.3.1"
