@@ -22,6 +22,7 @@
         "leafo/lessphp": "~0.5.0",
         "leafo/scssphp": "~0.1.1",
         "natxet/CssMin": "3.0.2",
+        "patchwork/jsqueeze": "dev-master#5600fc87af77c81686b963db38a3f34dfd269704",
         "oodle/krumo": "0.5.*",
         "symfony/yaml": "2.6.*",
         "tedivm/stash": "0.13.*",
