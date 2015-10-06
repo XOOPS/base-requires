@@ -34,7 +34,7 @@
         "ezyang/htmlpurifier": "4.6.0",
         "monolog/monolog": "1.15.*",
         "maximebf/debugbar": "1.10.*",
-        "tecnick.com/tcpdf": "6.2.*",
+        "tecnickcom/tcpdf": "6.2.*",
         "endroid/qrcode": "1.5.*",
         "stefangabos/zebra_image": "2.2.4",
         "phpmailer/phpmailer": "5.2.10",
