@@ -32,6 +32,7 @@
         "punic/punic": "1.6.*",
         "mathiasverraes/money": "1.2.*",
         "geekwright/po": "~1.0",
+        "embed/embed": "2.5.*",
         "ezyang/htmlpurifier": "4.6.0",
         "monolog/monolog": "1.15.*",
         "maximebf/debugbar": "1.10.*",
