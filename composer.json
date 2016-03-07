@@ -22,7 +22,7 @@
         "leafo/scssphp": "0.6.*",
         "natxet/CssMin": "3.0.*",
         "patchwork/jsqueeze": "2.0.3",
-        "oodle/krumo": "0.5.*",
+        "raveren/kint": "1.0.10",
         "symfony/yaml": "2.6.*",
         "tedivm/stash": "0.13.*",
         "dflydev/apache-mime-types": "1.0.*",
