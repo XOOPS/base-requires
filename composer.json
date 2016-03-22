@@ -39,7 +39,7 @@
         "tecnickcom/tcpdf": "6.2.*",
         "endroid/qrcode": "1.5.*",
         "stefangabos/zebra_image": "2.2.4",
-        "phpmailer/phpmailer": "5.2.10",
-        "swiftmailer/swiftmailer": "5.4.1"
+        "phpmailer/phpmailer": "5.2.*",
+        "swiftmailer/swiftmailer": "5.4.*"
     }
 }
