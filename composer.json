@@ -31,15 +31,15 @@
         "punic/punic": "1.6.*",
         "mathiasverraes/money": "1.2.*",
         "geekwright/po": "^1.0",
-        "embed/embed": "2.6.*",
+        "embed/embed": "^2.6.0",
         "ezyang/htmlpurifier": "4.6.0",
         "firebase/php-jwt": "3.0.*",
         "monolog/monolog": "1.19.*",
-        "maximebf/debugbar": "1.11.*",
+        "maximebf/debugbar": "^1.11",
         "tecnickcom/tcpdf": "6.2.*",
         "endroid/qrcode": "1.6.*",
         "stefangabos/zebra_image": "2.2.4",
-        "phpmailer/phpmailer": "6.0.0rc1",
+        "phpmailer/phpmailer": "^5.2.14",
         "swiftmailer/swiftmailer": "5.4.*"
     }
 }
