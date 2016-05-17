@@ -38,8 +38,8 @@
         "maximebf/debugbar": "^1.11",
         "tecnickcom/tcpdf": "6.2.*",
         "endroid/qrcode": "1.6.*",
-        "stefangabos/zebra_image": "2.2.4",
+        "stefangabos/zebra_image": "^2.2",
         "phpmailer/phpmailer": "^5.2.14",
-        "swiftmailer/swiftmailer": "5.4.*"
+        "swiftmailer/swiftmailer": "^5.4"
     }
 }
