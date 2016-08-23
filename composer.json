@@ -34,7 +34,7 @@
         "embed/embed": "^2.6.0",
         "ezyang/htmlpurifier": "^4.8.0",
         "firebase/php-jwt": "^4.0.0",
-        "monolog/monolog": "1.20.*",
+        "monolog/monolog": "^1.20.0",
         "maximebf/debugbar": "^1.11",
         "tecnickcom/tcpdf": "6.2.*",
         "endroid/qrcode": "1.7.*",
