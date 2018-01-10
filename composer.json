@@ -4,7 +4,7 @@
     "type": "project",
     "description": "Primary dependencies for XOOPS/XoopsCore",
     "require": {
-        "php": ">5.5.9",
+        "php": ">7.0",
         "ext-PDO": "*",
         "ext-session": "*",
         "ext-pcre": "*",
@@ -19,7 +19,7 @@
         "ptachoire/cssembed": "1.0.*",
         "lmammino/jsmin4assetic": "1.0.*",
         "oyejorge/less.php": "1.7.0.14",
-        "leafo/scssphp": "0.6.*",
+        "leafo/scssphp": "0.7.*",
         "natxet/CssMin": "3.0.*",
         "patchwork/jsqueeze": "~2.0.5",
         "kint-php/kint": "^2.0",
@@ -27,7 +27,7 @@
         "tedivm/stash": "0.14.*",
         "dflydev/apache-mime-types": "1.0.*",
         "geekwright/regdom": "^1.0",
-        "smarty/smarty": "3.1.*",
+        "smarty/smarty": "^3.1",
         "punic/punic": "^2",
         "moneyphp/money": "^3.0",
         "geekwright/po": "^1.0",
@@ -38,9 +38,9 @@
         "monolog/monolog": "^1.20.0",
         "maximebf/debugbar": "^1.11",
         "tecnickcom/tcpdf": "6.2.*",
-        "endroid/qrcode": "1.9.*",
+        "endroid/qr-code": "1.9.*",
         "stefangabos/zebra_image": "^2.2",
-        "phpmailer/phpmailer": "^5.2.14",
+        "phpmailer/phpmailer": "^5.2",
         "swiftmailer/swiftmailer": "^5.4"
     }
 }
