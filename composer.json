@@ -4,7 +4,7 @@
     "type": "project",
     "description": "Primary dependencies for XOOPS/XoopsCore",
     "require": {
-        "php": ">7.0",
+        "php": ">7.1",
         "ext-PDO": "*",
         "ext-session": "*",
         "ext-pcre": "*",
