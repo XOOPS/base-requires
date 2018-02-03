@@ -1,6 +1,6 @@
 {
     "name": "xoops/base-requires",
-    "license": "GPL-2.0+",
+    "license": "GPL-2.0-or-later",
     "type": "project",
     "description": "Primary dependencies for XOOPS/XoopsCore",
     "require": {
