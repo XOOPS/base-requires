@@ -11,7 +11,6 @@
         "league/container": "~2.0",
         "doctrine/dbal": "2.5.*",
         "psr/log": "1.0.*",
-        "paragonie/random_compat": "^2",
         "patchwork/utf8": "^1.3",
         "kriswallsmith/assetic": "1.4.*",
         "symfony/process": "^3.0",
@@ -28,9 +27,9 @@
         "dflydev/apache-mime-types": "1.0.*",
         "geekwright/regdom": "^1.0",
         "smarty/smarty": "^3.1",
-        "punic/punic": "^2",
+        "punic/punic": "^3",
         "moneyphp/money": "^3.0",
-        "geekwright/po": "^1.0",
+        "geekwright/po": "^2.0",
         "embed/embed": "^3.0.0",
         "ezyang/htmlpurifier": "^4.8.0",
         "firebase/php-jwt": "^5.0.0",
@@ -38,9 +37,8 @@
         "monolog/monolog": "^1.20.0",
         "maximebf/debugbar": "^1.11",
         "tecnickcom/tcpdf": "6.2.*",
-        "endroid/qr-code": "1.9.*",
+        "endroid/qr-code": "^3.0",
         "stefangabos/zebra_image": "^2.2",
-        "phpmailer/phpmailer": "^5.2",
-        "swiftmailer/swiftmailer": "^5.4"
+        "phpmailer/phpmailer": "^6.0"
     }
 }
