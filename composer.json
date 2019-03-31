@@ -37,7 +37,7 @@
         "monolog/monolog": "^1.20.0",
         "maximebf/debugbar": "^1.11",
         "tecnickcom/tcpdf": "6.2.*",
-        "endroid/qr-code": "^3.0",
+        "endroid/qr-code": "^3.5.0",
         "stefangabos/zebra_image": "^2.2",
         "phpmailer/phpmailer": "^6.0"
     }
