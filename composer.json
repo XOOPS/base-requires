@@ -8,6 +8,7 @@
         "ext-PDO": "*",
         "ext-session": "*",
         "ext-pcre": "*",
+        "ext-json": "*",
         "league/container": "~2.0",
         "doctrine/dbal": "2.5.*",
         "psr/log": "1.1.*",
