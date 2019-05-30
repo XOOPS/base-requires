@@ -3,6 +3,12 @@
     "license": "GPL-2.0-or-later",
     "type": "project",
     "description": "Primary dependencies for XOOPS/XoopsCore",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/geekwright/assetic"
+        }
+    ],
     "require": {
         "php": ">7.1",
         "ext-PDO": "*",
@@ -10,11 +16,11 @@
         "ext-pcre": "*",
         "ext-json": "*",
         "league/container": "~2.0",
-        "doctrine/dbal": "2.5.*",
+        "doctrine/dbal": "2.9.*",
         "psr/log": "1.1.*",
         "patchwork/utf8": "^1.3",
-        "kriswallsmith/assetic": "1.4.*",
-        "symfony/console": "^3.0",
+        "kriswallsmith/assetic": "dev-fix-bitrot",
+        "symfony/console": "^4.2",
         "ptachoire/cssembed": "1.0.*",
         "lmammino/jsmin4assetic": "1.0.*",
         "oyejorge/less.php": "1.7.0.14",
@@ -22,8 +28,8 @@
         "natxet/cssmin": "3.0.*",
         "patchwork/jsqueeze": "~2.0.5",
         "kint-php/kint": "^3.0",
-        "symfony/yaml": "^3.0",
-        "tedivm/stash": "0.14.*",
+        "symfony/yaml": "^4.2",
+        "tedivm/stash": "^0.15",
         "dflydev/apache-mime-types": "1.0.*",
         "geekwright/regdom": "^1.0",
         "smarty/smarty": "^3.1",
