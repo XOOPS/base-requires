@@ -18,7 +18,7 @@
         "ptachoire/cssembed": "1.0.*",
         "lmammino/jsmin4assetic": "1.0.*",
         "oyejorge/less.php": "1.7.0.14",
-        "leafo/scssphp": "0.7.*",
+        "scssphp/scssphp": "^1.0",
         "natxet/cssmin": "3.0.*",
         "patchwork/jsqueeze": "~2.0.5",
         "kint-php/kint": "^3.0",
